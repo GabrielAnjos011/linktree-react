@@ -17,8 +17,8 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-# if you are deploying to https://GabrielAnjos011.github.io
-# git push -f git@github.com:GabrielAnjos011/GabrielAnjos011.github.io.git main
+# if you are deploying to https://<USERNAME>.github.io
+# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main
 
 # if you are deploying to https://GabrielAnjos011.github.io/linktree-react
 # git push -f git@github.com:GabrielAnjos011/linktree-react.git main:gh-pages
